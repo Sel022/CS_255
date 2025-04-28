@@ -1,8 +1,4 @@
-
-
-
-
-                                             Driver Pass System application development
+Driver Pass System application development
 
 The Driver Pass System is a comprehensive role-based platform designed to streamline the registration, verification, and approval process for drivers within an organization that also includes students, instructors, and administrators. Each role plays a distinct part in the system's workflow, ensuring accountability, transparency, and security.
 At the core of the system is the driver onboarding process, which begins with a registration form where drivers submit essential information along with required documentation, such as their license and identification. Once submitted, the application enters a verification workflow managed primarily by administrators, who have full authority to approve, reject, or request additional information. Throughout this process, drivers can log in to a dedicated dashboard to track the real-time status of their applications and receive updates through both email and in-app notifications.
